@@ -9,6 +9,7 @@ class Account(object):
         self.money = money
 
     '''
+    
        계좌번호는 3자리-2자리-6자리 형태로 랜덤하게 생성됩니다.
     '''
 
