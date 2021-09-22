@@ -45,6 +45,7 @@ def add_cont(c_list):
         c_list.append(cont)
 
 
+        
 # 메뉴 출력
 def prt_menu():
     print("1. Add")
