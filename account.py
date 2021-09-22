@@ -1,5 +1,6 @@
 import random
 
+
 class Account(object):
 
     def __init__(self, name , money):
