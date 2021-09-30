@@ -5,6 +5,7 @@
 import random
 import time
 
+
 words = []                                   # 영어 단어 리스트(1000개 로드)
 
 n = 1                                        # 게임 시도 횟수
