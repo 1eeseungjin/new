@@ -9,6 +9,7 @@ import winsound
 import sqlite3
 import datetime
 
+
 # DB생성 & Autocommit
 # 본인 DB 파일 경로
 conn = sqlite3.connect('본인이 원하는 경로/records.db', isolation_level=None)
