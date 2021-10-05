@@ -7,6 +7,7 @@ import sys
 
 
 
+
 # 파이썬 2.x vs 3.x 기본 캐릭터 셋 설명
 # Python 3.x 입력 인코딩
 print(sys.stdin.encoding)
